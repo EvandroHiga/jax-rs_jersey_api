@@ -1,6 +1,6 @@
-![Alt text](git-imgs/test_request.png)
-
 # JAX-RS Jersey - RESTful API
+
+![Alt text](git-imgs/test_request.png)
 
 ## Sobre
 Esta *POC* demonstra uma API REST de acordo com as especificações ***JSR 311: JAX-RS*** e ***JSR 330: Dependency Injection*** utilizando, respectivamente, as implementações ***Jersey*** e ***HK2***.<br />
