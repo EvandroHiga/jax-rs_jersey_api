@@ -8,7 +8,6 @@ Especificações muito utilizadas no passado, ainda rodando hoje em dia em aplic
 
 ## Como usar
 Não há o Tomcat embedded como estamos acostumados a ver atualmente em projetos Spring Boot. Desta forma, é necessário baixar o Tomcat (ou outro servlet container) e, manualmente, gerar, fazer o deploy do *.war* e subir este servlet container ou utilizar uma IDE que faça esta tarefa (eclipse, por exemplo). Não cabe abordar aqui esta configuração.<br />
-
 * Gere o .war da aplicação
 * Faça o download e realize o deploy do .war em um servlet container e starte-o
 * Após, teste a aplicação chamando a URL abaixo (confira a porta configurada):
